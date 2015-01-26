@@ -1,6 +1,8 @@
 BitmapSmoothCut
 =======
 
+![BitmapSmoothCut Panel](img/image.png)
+
 This is a jsfl file which sets image compression as PNG and turns off smoothing of BitmapItem.
 
 Flash CC ライブラリ 選択したアイテム(or フォルダ)内の 各ビットマップデータに対し一括で、
