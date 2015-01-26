@@ -1,0 +1,20 @@
+-js download/BitmapSmoothCut.jsfl
+-main BitmapSmoothCut
+-cp src
+-cp C:\googledrive\workspace\haxelib\haxe-jsfl\jsfl\hxclasses
+
+--next
+
+-js extension_content/BitmapSmoothCut.jsfl
+-main BitmapSmoothCut
+-cp src
+-cp C:\googledrive\workspace\haxelib\haxe-jsfl\jsfl\hxclasses
+
+--next
+
+-js extension_content/index.js
+-main ExtensionIndex
+-cp src
+-cp C:\googledrive\workspace\MyHaxelib\haxelib\src\adobe_extension
+-cp C:\googledrive\workspace\haxelib\haxe-jsfl\jsfl\hxclasses
+-lib jQueryExtern
