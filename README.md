@@ -18,5 +18,5 @@ Flash CC にて psd から大量にデータを読み込む方向け。
 This can be used by Flash CC 13.1 or later. In the case of Windows, it can save from a right-click. 
 [Extension Manager Command Line tool(ExManCmd)](https://www.adobeexchange.com/resources/28) is required in order to install. 
 
-Flash CC 13.1 以降のバージョンで利用可能です。Windows の場合、右クリックから「リンク先のコンテンツを保存」を選択で保存できます。インストールには別途 
+Flash CC 13.1 以降のバージョンで利用可能です。Windows の場合、右クリックから「リンク先のコンテンツを保存」を選択で保存できます。
 インストールには別途 [Extension Manager Command Line tool(ExManCmd)](https://www.adobeexchange.com/resources/28)が必要です。
